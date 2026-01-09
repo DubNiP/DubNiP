@@ -1,11 +1,7 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/COMPETITIVE%20PROGRAMMING-ESTUDANTE-blue?style=for-the-badge" alt="Badge" />
-  <br>
-  <br>
-
   <a href="https://codeforces.com/profile/SEU_USER">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dub_&theme=transparent&hide_border=true" height="130" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dub_&theme=transparent&hide_border=true" height="200" />
   </a>
   <br>
   <br>
