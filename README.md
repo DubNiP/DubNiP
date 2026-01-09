@@ -12,14 +12,14 @@
   <br>
   
   💻 <b>Meus Projetos:</b> <br>
-  <a href="#">MAGIX (Game)</a> • 
-  <a href="#">Mapping Robot (ROS2)</a> • 
-  <a href="#">Simulador de Colisões</a> • 
-  <a href="#">Pêndulo (Física)</a>
+  <a href="https://github.com/DubNiP/MAGIX">MAGIX (Jogo feito em C++ com POO e Engenharia de Software)</a> • 
+  <a href="https://github.com/Arthur3040/mapping_robot">Mapping Robot (ROS2)</a> • 
+  <a href="https://www.youtube.com/watch?v=I6yCmCQXEq4&t=2s">Simulador de Colisões (Física)</a> • 
+  <a href="https://github.com/DubNiP/APS_Pendulo">Análise de Dados: Pêndulo (Física)</a>
   <br>
   <br>
  
-  <h2>🛠 Languages-Frameworks-Tools 🛠</h2>
+  <h2>🛠 Ferramentas 🛠</h2>
 
   <p>
     <b>Conceitos & Simulação:</b> POO em C++ • UML • Gazebo • ROS 2
