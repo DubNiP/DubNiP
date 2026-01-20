@@ -1,6 +1,6 @@
 <div align="center">
 
-  👋 Atualmente estudando Engenharia de Computação na UTFPR-CT <br>
+  👋 Estudante de Engenharia de Computação na UTFPR-CT <br>
   <br>
   🌱 Atualmente se aprofundando em programação competitiva<br>
   <br>
