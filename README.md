@@ -8,6 +8,7 @@
   💻 <b>Meus Projetos:</b> <br>
   <a href="https://github.com/DubNiP/MAGIX">MAGIX (Jogo feito em C++ com POO e Engenharia de Software)</a> • 
   <a href="https://github.com/Arthur3040/mapping_robot">Mapping Robot (ROS2)</a> • 
+  <a href="https://github.com/DubNiP/Processador-8bits">Processador 8 bits (Realizado no Quartus)</a> • 
   <a href="https://www.youtube.com/watch?v=I6yCmCQXEq4&t=2s">Simulador de Colisões (Física)</a> • 
   <a href="https://github.com/DubNiP/APS_Pendulo">Análise de Dados: Pêndulo (Física)</a>
   <br>
@@ -16,7 +17,7 @@
   <h2> Ferramentas </h2>
 
   <p>
-    <b>Conceitos & Simulação:</b> POO em C++ • UML • Gazebo • ROS 2
+    <b>Conceitos & Simulação:</b> POO em C++ • UML • Gazebo • ROS 2 • VHDL
   </p>
 
   <div style="display: inline-block;">
@@ -43,6 +44,13 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
     <img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  </div>
+
+  <br>
+
+  <div style="display: inline-block;">
+    <img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=matlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
     <img src="https://img.shields.io/badge/Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </div>
 
