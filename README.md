@@ -1,8 +1,8 @@
 <div align="center">
 
-  👋 Estudante de Engenharia de Computação na UTFPR-CT <br>
+  Estudante de Engenharia de Computação na UTFPR-CT <br>
   <br>
-  🌱 Atualmente se aprofundando em programação competitiva<br>
+  Atualmente se aprofundando em programação competitiva<br>
   <br>
   
   💻 <b>Meus Projetos:</b> <br>
@@ -13,7 +13,7 @@
   <br>
   <br>
  
-  <h2>🛠 Ferramentas 🛠</h2>
+  <h2> Ferramentas </h2>
 
   <p>
     <b>Conceitos & Simulação:</b> POO em C++ • UML • Gazebo • ROS 2
@@ -49,13 +49,13 @@
   <br>
   <br>
 
-  <h2>🏆 Programação Competitiva & Comunidade</h2>
+  <h2> Programação Competitiva & Comunidade</h2>
   
   <p>
-    🥈 <b>Medalhista de Prata</b> na UTF.C 2025 (UTFPR Contest) <br>
-    🎈 <b>Participante</b> da Maratona de Programação da SBC / ICPC <br>
-    🤝 <b>Membro Ativo</b> do Clube de Programação da UTFPR-CT <br>
-    🧑‍🏫 <b>Organizador de Oficinas</b> sobre algoritmos
+     <b>Medalhista de Prata</b> na UTF.C 2025 (UTFPR Contest) <br>
+     <b>Participante</b> da Maratona de Programação da SBC / ICPC <br>
+     <b>Membro Ativo</b> do Clube de Programação da UTFPR-CT <br>
+     <b>Organizador de Oficinas</b> sobre algoritmos
   </p>
 
   <a href="https://codeforces.com/profile/Dub_">
