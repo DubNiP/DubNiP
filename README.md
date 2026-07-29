@@ -5,7 +5,7 @@
   Atualmente se aprofundando em programação competitiva<br>
   <br>
   
-  💻 <b>Meus Projetos:</b> <br>
+   <b>Meus Projetos:</b> <br>
   <a href="https://github.com/DubNiP/MAGIX">MAGIX (Jogo feito em C++ com POO e Engenharia de Software)</a> • 
   <a href="https://github.com/Arthur3040/mapping_robot">Mapping Robot (ROS2)</a> • 
   <a href="https://github.com/DubNiP/competitive-programming">Códigos relacionados a programação competitiva</a>
